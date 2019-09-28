@@ -1,5 +1,5 @@
 # Auto Appointment Script for FlexTime
-Recently our school made the switch to the [https://teachmore.org]FlexTime-App.
+Recently our school made the switch to the https://teachmore.org[Flextime App].
 The way this program works is that we make appointments for our homerooms instead of the previous freedom that we could go to any homeroom we wanted to.
 I personally found this stupid, and a waste of time, as we had to sign up every Wednesday and Thursday to go to a teacher's class. If we didn't sign up, we weren't allowed to go, and we were forced to the cafeteria if we didn't go to any of the classrooms.
 Instead of conforming to the idea that I need to register every week, I dug through the source code to find that the app is run off a php file, and the functions to handle everything was neatly included in the file
